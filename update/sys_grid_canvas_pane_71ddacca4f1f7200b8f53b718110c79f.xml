@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab 2">dacd600e4f1f7200b8f53b718110c765</grid_canvas>
+        <height>14</height>
+        <portal_widget display_value="Created 2017-06-12 20:54:53">35ddacca4f1f7200b8f53b718110c79c</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-13 03:54:53</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>71ddacca4f1f7200b8f53b718110c79f</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>dacd600e4f1f7200b8f53b718110c765</sys_name>
+        <sys_package display_value="Capability Matrix" source="x_118627_capabilit">b5ea0f354f5b7200b8f53b718110c7a9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Capability Matrix">b5ea0f354f5b7200b8f53b718110c7a9</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_71ddacca4f1f7200b8f53b718110c79f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-15 03:55:27</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+</record_update>

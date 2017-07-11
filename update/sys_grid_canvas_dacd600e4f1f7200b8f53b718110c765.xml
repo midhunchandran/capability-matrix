@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_grid_canvas" unload_date="2017-07-11 20:01:26">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA New Tab 2">decdec8a4f1f7200b8f53b718110c7f3</legacy_page>
+        <name>PA New Tab 2</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-13 03:54:39</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>dacd600e4f1f7200b8f53b718110c765</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab 2</sys_name>
+        <sys_package display_value="Capability Matrix" source="x_118627_capabilit">b5ea0f354f5b7200b8f53b718110c7a9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Capability Matrix">b5ea0f354f5b7200b8f53b718110c7a9</sys_scope>
+        <sys_update_name>sys_grid_canvas_dacd600e4f1f7200b8f53b718110c765</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-13 03:54:39</sys_updated_on>
+        <related_items_node>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab 2">dacd600e4f1f7200b8f53b718110c765</grid_canvas>
+                <height>14</height>
+                <portal_widget display_value="Created 2017-06-14 20:55:04">cc11cb624fd33200b8f53b718110c726</portal_widget>
+                <posx>0</posx>
+                <posy>14</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-06-15 03:55:04</sys_created_on>
+                <sys_customer_update>true</sys_customer_update>
+                <sys_id>0c11cb624fd33200b8f53b718110c729</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_name>dacd600e4f1f7200b8f53b718110c765</sys_name>
+                <sys_package display_value="Capability Matrix" source="x_118627_capabilit">b5ea0f354f5b7200b8f53b718110c7a9</sys_package>
+                <sys_policy/>
+                <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                <sys_scope display_value="Capability Matrix">b5ea0f354f5b7200b8f53b718110c7a9</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_0c11cb624fd33200b8f53b718110c729</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-06-15 03:59:07</sys_updated_on>
+                <width>12</width>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA New Tab 2">decdec8a4f1f7200b8f53b718110c7f3</page>
+                        <summary>Problem Impact</summary>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-15 03:55:04</sys_created_on>
+                        <sys_id>cc11cb624fd33200b8f53b718110c726</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-15 03:55:04</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab 2">dacd600e4f1f7200b8f53b718110c765</grid_canvas>
+                                <height>14</height>
+                                <portal_widget display_value="Created 2017-06-14 20:55:04">cc11cb624fd33200b8f53b718110c726</portal_widget>
+                                <posx>0</posx>
+                                <posy>14</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2017-06-15 03:55:04</sys_created_on>
+                                <sys_customer_update>true</sys_customer_update>
+                                <sys_id>0c11cb624fd33200b8f53b718110c729</sys_id>
+                                <sys_mod_count>2</sys_mod_count>
+                                <sys_name>dacd600e4f1f7200b8f53b718110c765</sys_name>
+                                <sys_package display_value="Capability Matrix" source="x_118627_capabilit">b5ea0f354f5b7200b8f53b718110c7a9</sys_package>
+                                <sys_policy/>
+                                <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                                <sys_scope display_value="Capability Matrix">b5ea0f354f5b7200b8f53b718110c7a9</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_0c11cb624fd33200b8f53b718110c729</sys_update_name>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2017-06-15 03:59:07</sys_updated_on>
+                                <width>12</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2017-06-14 20:55:04">cc11cb624fd33200b8f53b718110c726</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2017-06-15 03:55:04</sys_created_on>
+                                <sys_id>0011cb624fd33200b8f53b718110c729</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2017-06-15 03:55:04</sys_updated_on>
+                                <value>Problem Impact</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2017-06-14 20:55:04">cc11cb624fd33200b8f53b718110c726</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2017-06-15 03:55:04</sys_created_on>
+                                <sys_id>0c11cb624fd33200b8f53b718110c727</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2017-06-15 03:55:04</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 2017-06-14 20:55:04">cc11cb624fd33200b8f53b718110c726</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2017-06-15 03:55:04</sys_created_on>
+                                <sys_id>4011cb624fd33200b8f53b718110c728</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2017-06-15 03:55:04</sys_updated_on>
+                                <value>report_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2017-06-14 20:55:04">cc11cb624fd33200b8f53b718110c726</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2017-06-15 03:55:04</sys_created_on>
+                                <sys_id>4411cb624fd33200b8f53b718110c727</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2017-06-15 03:55:04</sys_updated_on>
+                                <value>757087ee4f933200b8f53b718110c7f9</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2017-06-14 20:55:04">cc11cb624fd33200b8f53b718110c726</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2017-06-15 03:55:04</sys_created_on>
+                                <sys_id>8411cb624fd33200b8f53b718110c728</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2017-06-15 03:55:04</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>report_type</name>
+                                <portal_section display_value="Created 2017-06-14 20:55:04">cc11cb624fd33200b8f53b718110c726</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2017-06-15 03:55:04</sys_created_on>
+                                <sys_id>c811cb624fd33200b8f53b718110c728</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2017-06-15 03:55:04</sys_updated_on>
+                                <value>bar</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA New Tab 2">decdec8a4f1f7200b8f53b718110c7f3</page>
+                        <summary>Problem Heatmap</summary>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2017-06-13 03:54:53</sys_created_on>
+                        <sys_id>35ddacca4f1f7200b8f53b718110c79c</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2017-06-13 03:54:53</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab 2">dacd600e4f1f7200b8f53b718110c765</grid_canvas>
+                                <height>14</height>
+                                <portal_widget display_value="Created 2017-06-12 20:54:53">35ddacca4f1f7200b8f53b718110c79c</portal_widget>
+                                <posx>0</posx>
+                                <posy>0</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2017-06-13 03:54:53</sys_created_on>
+                                <sys_customer_update>true</sys_customer_update>
+                                <sys_id>71ddacca4f1f7200b8f53b718110c79f</sys_id>
+                                <sys_mod_count>6</sys_mod_count>
+                                <sys_name>dacd600e4f1f7200b8f53b718110c765</sys_name>
+                                <sys_package display_value="Capability Matrix" source="x_118627_capabilit">b5ea0f354f5b7200b8f53b718110c7a9</sys_package>
+                                <sys_policy/>
+                                <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                                <sys_scope display_value="Capability Matrix">b5ea0f354f5b7200b8f53b718110c7a9</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_71ddacca4f1f7200b8f53b718110c79f</sys_update_name>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2017-06-15 03:55:27</sys_updated_on>
+                                <width>12</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>report_type</name>
+                                <portal_section display_value="Created 2017-06-12 20:54:53">35ddacca4f1f7200b8f53b718110c79c</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2017-06-13 03:54:53</sys_created_on>
+                                <sys_id>31ddacca4f1f7200b8f53b718110c79e</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2017-06-13 03:54:53</sys_updated_on>
+                                <value>heatmap</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2017-06-12 20:54:53">35ddacca4f1f7200b8f53b718110c79c</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2017-06-13 03:54:53</sys_created_on>
+                                <sys_id>71ddacca4f1f7200b8f53b718110c79d</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2017-06-13 03:54:53</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderReport</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2017-06-12 20:54:53">35ddacca4f1f7200b8f53b718110c79c</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2017-06-13 03:54:53</sys_created_on>
+                                <sys_id>75ddacca4f1f7200b8f53b718110c79e</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2017-06-13 03:54:53</sys_updated_on>
+                                <value>Problem Heatmap</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>help_text_window</name>
+                                <portal_section display_value="Created 2017-06-12 20:54:53">35ddacca4f1f7200b8f53b718110c79c</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2017-06-13 03:54:53</sys_created_on>
+                                <sys_id>b5ddacca4f1f7200b8f53b718110c79d</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2017-06-13 03:54:53</sys_updated_on>
+                                <value>report_widget_description</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>sys_id</name>
+                                <portal_section display_value="Created 2017-06-12 20:54:53">35ddacca4f1f7200b8f53b718110c79c</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2017-06-13 03:54:53</sys_created_on>
+                                <sys_id>b9ddacca4f1f7200b8f53b718110c79c</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2017-06-13 03:54:53</sys_updated_on>
+                                <value>a35ae80a4f1f7200b8f53b718110c7b5</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>can_subscribe</name>
+                                <portal_section display_value="Created 2017-06-12 20:54:53">35ddacca4f1f7200b8f53b718110c79c</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2017-06-13 03:54:53</sys_created_on>
+                                <sys_id>f9ddacca4f1f7200b8f53b718110c79d</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2017-06-13 03:54:53</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+            </sys_grid_canvas_pane>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab 2">dacd600e4f1f7200b8f53b718110c765</grid_canvas>
+                <height>14</height>
+                <portal_widget display_value="Created 2017-06-12 20:54:53">35ddacca4f1f7200b8f53b718110c79c</portal_widget>
+                <posx>0</posx>
+                <posy>0</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2017-06-13 03:54:53</sys_created_on>
+                <sys_customer_update>true</sys_customer_update>
+                <sys_id>71ddacca4f1f7200b8f53b718110c79f</sys_id>
+                <sys_mod_count>6</sys_mod_count>
+                <sys_name>dacd600e4f1f7200b8f53b718110c765</sys_name>
+                <sys_package display_value="Capability Matrix" source="x_118627_capabilit">b5ea0f354f5b7200b8f53b718110c7a9</sys_package>
+                <sys_policy/>
+                <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+                <sys_scope display_value="Capability Matrix">b5ea0f354f5b7200b8f53b718110c7a9</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_71ddacca4f1f7200b8f53b718110c79f</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2017-06-15 03:55:27</sys_updated_on>
+                <width>12</width>
+            </sys_grid_canvas_pane>
+        </related_items_node>
+    </sys_grid_canvas>
+</record_update>

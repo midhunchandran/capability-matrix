@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="575c94024f1f7200b8f53b718110c7cc" sys_domain="global" table="x_118627_capabilit_problems" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 02:38:32</sys_created_on>
+            <sys_id>1b5c94024f1f7200b8f53b718110c7d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_118627_capabilit_problems" sys_domain="global" view="Default view">575c94024f1f7200b8f53b718110c7cc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 02:38:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 02:38:32</sys_created_on>
+            <sys_id>9b5c94024f1f7200b8f53b718110c7d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_118627_capabilit_problems" sys_domain="global" view="Default view">575c94024f1f7200b8f53b718110c7cc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 02:38:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>score</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 03:22:37</sys_created_on>
+            <sys_id>857624464f1f7200b8f53b718110c78f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_118627_capabilit_problems" sys_domain="global" view="Default view">575c94024f1f7200b8f53b718110c7cc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 03:22:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_118627_capabilit_problems</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 02:38:31</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>575c94024f1f7200b8f53b718110c7cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_118627_capabilit_problems</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Capability Matrix" source="x_118627_capabilit">b5ea0f354f5b7200b8f53b718110c7a9</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Capability Matrix">b5ea0f354f5b7200b8f53b718110c7a9</sys_scope>
+            <sys_update_name>sys_ui_section_575c94024f1f7200b8f53b718110c7cc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 02:38:31</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

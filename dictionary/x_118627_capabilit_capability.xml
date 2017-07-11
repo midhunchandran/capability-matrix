@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Capability" max_length="40" name="x_118627_capabilit_capability" type="collection">
+        <element attributes="no_truncate=true" label="Description" max_length="250" name="description" type="string"/>
+        <element label="Name" max_length="50" name="name" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Matrix" max_length="40" name="x_118627_capabilit_matirx" type="collection">
+        <element label="Capability" max_length="32" name="capability" reference="x_118627_capabilit_capability" type="reference"/>
+        <element label="Platform" max_length="32" name="platform" reference="x_118627_capabilit_platforms" type="reference"/>
+        <element label="Problems" max_length="32" name="problems" reference="x_118627_capabilit_problems" type="reference"/>
+        <element choice="1" label="Score" max_length="40" name="score" type="integer">
+            <choice>
+                <element label="1" value="1"/>
+                <element label="2" value="2"/>
+                <element label="3" value="3"/>
+                <element label="4" value="4"/>
+                <element label="5" value="5"/>
+            </choice>
+        </element>
+        <element attributes="no_truncate=true" label="Score Description" max_length="300" name="score_description" type="string"/>
+        <index name="index">
+            <element name="capability"/>
+        </index>
+        <index name="index2">
+            <element name="platform"/>
+        </index>
+        <index name="index3">
+            <element name="problems"/>
+        </index>
+    </element>
+</database>

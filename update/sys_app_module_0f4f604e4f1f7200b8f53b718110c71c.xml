@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Capability Matrix">c59b0b754f5b7200b8f53b718110c735</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage display_value="Self Service">4da11b86c611229701f1d31a48c9245d</homepage>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Matrix Report</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>500</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>home.do</query>
+        <report display_value="Problem Heatmap">a35ae80a4f1f7200b8f53b718110c7b5</report>
+        <roles>x_118627_capabilit.capabability_matrix_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-13 04:01:53</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0f4f604e4f1f7200b8f53b718110c71c</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Matrix Reports</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Capability Matrix" source="x_118627_capabilit">b5ea0f354f5b7200b8f53b718110c7a9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Capability Matrix">b5ea0f354f5b7200b8f53b718110c7a9</sys_scope>
+        <sys_update_name>sys_app_module_0f4f604e4f1f7200b8f53b718110c71c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-15 04:54:43</sys_updated_on>
+        <timeline_page/>
+        <title>Matrix Reports</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
